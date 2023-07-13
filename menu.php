@@ -3,3 +3,5 @@
 <?php echo "3";?>
 <?php echo "4";?>
 <?php echo "5";?>
+<?php echo "6";?>
+<?php echo "7";?>
